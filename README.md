@@ -1,6 +1,6 @@
 Micropython-Klasse zur Ansteuerung eines HD44780 kompatiblen Displays für ESP32 Boards
 
-Die Ansteuerung in Micropython wurde meinen Wuenschen angepasst.
+Die Ansteuerung in Micropython habe ich meinen Wuenschen angepasst.
 
 Als Grundlage fuer meine Klassen habe ich folgedend Dateien genutzt:
 
