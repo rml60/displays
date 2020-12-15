@@ -2,7 +2,7 @@ Micropython-Klasse zur Ansteuerung eines HD44780 kompatiblen Displays für ESP32
 
 Die Ansteuerung in Micropython habe ich meinen Wuenschen angepasst.
 
-Als Grundlage fuer meine Klassen habe ich folgedend Dateien genutzt:
+Als Grundlage fuer meine Klassen habe ich folgende Dateien genutzt:
 
   lcd_api.py und esp8266_i2c_lcd.py
   https://github.com/Gusri/python_lcd 
