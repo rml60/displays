@@ -2,7 +2,7 @@
     This was tested with: ESP32-Pico Discovery-Board
 """
 
-from lcdhd44780 import LcdHD44780
+from .lcdhd44780 import LcdHD44780
 from machine import I2C,Pin
 from time import sleep_ms
 
