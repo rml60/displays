@@ -13,5 +13,6 @@ Als Grundlage fuer meine Klassen habe ich folgende Dateien von https://github.co
 ## SSD1306 kompatible Displays
 
 **Micropython-Klasse** zur Ansteuerung eines SSD1306 kompatiblen Displays für ESP32 Boards
+
 Als Grundlage fuer meine Klasse habe ich folgende Datei von https://github.com/RuiSantosdotme/ESP-MicroPython/blob/master/code/Others/OLED genutzt:
 - ssd1306.py
