@@ -1,6 +1,6 @@
 # Displays
 
-# HD44780 kompatible Displays
+## HD44780 kompatible Displays
 
 **Micropython-Klasse** zur Ansteuerung eines HD44780 kompatiblen Displays für ESP32 Boards
 
