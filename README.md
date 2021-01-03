@@ -8,5 +8,7 @@ Als Grundlage fuer meine Klassen habe ich folgende Dateien von https://github.co
 - lcd_api.py 
 - esp8266_i2c_lcd.py
 
+# ssd1306 kompatible Displays
 
-
+Als Grundlage fuer meine Klassen habe ich folgende Datei xxx genutzt:
+- ssd1306.py
