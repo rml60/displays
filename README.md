@@ -10,5 +10,5 @@ Als Grundlage fuer meine Klassen habe ich folgende Dateien von https://github.co
 
 # ssd1306 kompatible Displays
 
-Als Grundlage fuer meine Klassen habe ich folgende Datei xxx genutzt:
+Als Grundlage fuer meine Klasse habe ich folgende Datei xxx genutzt:
 - ssd1306.py
