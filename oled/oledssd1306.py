@@ -105,6 +105,9 @@ class Ssd1306:
   def text(self, string, x, y, color=1):
     self.__framebuf.text(string, x, y, color)
 
+  def line(self, y, color):
+    for x in range(0, self.__width, 1):
+      self.__framebuf.pixel(x, y, color)
 
 class Ssd1306I2c(Ssd1306):
   def __init__(self, width, height, i2c, addr=0x3c, externalvcc=False):
