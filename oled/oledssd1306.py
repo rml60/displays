@@ -1,3 +1,6 @@
+""" oledssd1306.py
+"""
+
 #MicroPython SSD1306 OLED driver, I2C and SPI interfaces created by Adafruit
 # https://github.com/RuiSantosdotme/ESP-MicroPython/blob/master/code/Others/OLED/ssd1306.py
 
